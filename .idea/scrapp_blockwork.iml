@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, RVM: ruby-2.4.1 [rails5.0]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="byebug (v10.0.2, RVM: ruby-2.4.1 [rails5.0]) [gem]" level="application" />
   </component>
 </module>
